@@ -32,7 +32,6 @@ Challenge: Varied identity management standards and limited vendor support.
 Challenge: Need for scalable access controls in dynamic, heterogeneous environments.
 
 ## Ensuring Secure and Efficient Access
-Strategy:
 Access Policies: Develop and enforce detailed access control policies.
 Audits and Compliance Checks: Regularly audit access and compliance.
 Monitoring and Alerting: Implement advanced monitoring for real-time security alerts.
