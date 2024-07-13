@@ -50,3 +50,6 @@ Integration with Existing Systems: Ensure seamless integration with existing HR,
 Risk Reduction: Strengthen cybersecurity postures to reduce business risks and protect against financial losses.
 Operational Efficiency: Reduce administrative overhead and automate key processes to allow staff to focus on strategic tasks.
 Competitive Advantage: Demonstrate to clients and partners that the organization prioritizes and invests in advanced security and operational efficiency, potentially increasing business opportunities and market competitiveness.
+
+[Designing IAM solutions for TechCorp (1).pdf](https://github.com/user-attachments/files/16200527/Designing.IAM.solutions.for.TechCorp.1.pdf)
+[Techcorp IAM implementation.pdf](https://github.com/user-attachments/files/16200528/Techcorp.IAM.implementation.pdf)
